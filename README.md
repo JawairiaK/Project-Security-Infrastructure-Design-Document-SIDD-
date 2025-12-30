@@ -26,9 +26,8 @@ README.md
 
 How to Use
 
-Open and review the PDF document to understand the proposed security architecture.
-
-    Can be referenced as a learning resource or portfolio example for IT security design.
+ Open and review the PDF document to understand the proposed security architecture.
+ Can be referenced as a learning resource or portfolio example for IT security design.
 
 Disclaimer
 
