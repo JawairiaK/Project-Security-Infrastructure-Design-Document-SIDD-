@@ -21,8 +21,8 @@ This project is intended as a portfolio piece to demonstrate skills in secure IT
  
 Repository Contents
 
-Security_Design_Document.pdf      # Full documentation of the architecture
-README.md                        # Project overview and details
+Security_Design_Document.pdf     
+README.md                        
 
 How to Use
 
