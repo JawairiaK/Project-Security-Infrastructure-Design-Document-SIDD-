@@ -4,15 +4,15 @@ Overview
 This project presents a secure IT architecture designed for a fictional retail company handling customer payment data. It demonstrates the application of industry-standard security practices and compliance frameworks.
 Key Features
 
-    Authentication & Access Control: Implementation of AAA (Authentication, Authorization, Accounting) mechanisms.
+ Authentication & Access Control: Implementation of AAA (Authentication, Authorization, Accounting) mechanisms.
 
-    Secure Remote Access: VPN-based access for remote employees.
+ Secure Remote Access: VPN-based access for remote employees.
 
-    Network Security: Firewall and IDS/IPS configuration, VLAN segmentation.
+ Network Security: Firewall and IDS/IPS configuration, VLAN segmentation.
 
-    Endpoint Security: Hardening of workstations and servers.
+ Endpoint Security: Hardening of workstations and servers.
 
-    Compliance: Designed in accordance with ISO 27001, NIST SP 800-53, and PCI DSS standards.
+ Compliance: Designed in accordance with ISO 27001, NIST SP 800-53, and PCI DSS standards.
 
 Purpose
 
@@ -26,7 +26,7 @@ README.md
 
 How to Use
 
-    Open and review the PDF document to understand the proposed security architecture.
+Open and review the PDF document to understand the proposed security architecture.
 
     Can be referenced as a learning resource or portfolio example for IT security design.
 
