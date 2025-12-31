@@ -21,7 +21,8 @@ This project is intended as a portfolio piece to demonstrate skills in secure IT
  
 Repository Contents
 
-Security_Design_Document.pdf     
+Security_Design_Document.pdf  
+Flow_Charts_of_Security_Infrastructure.pdf
 README.md                        
 
 How to Use
@@ -31,4 +32,4 @@ How to Use
 
 Disclaimer
 
-This project is entirely fictional. No real customer or company data is included. It is intended for educational purposes only.  # Project-Security-Infrastructure-Design-Document-SIDD-
+This project is entirely fictional. No real customer or company data is included. It is intended for educational purposes only. 
